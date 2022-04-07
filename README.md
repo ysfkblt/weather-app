@@ -7,6 +7,7 @@
 ### -Tailwind CSS
 
 ### -OpenWeather API
-
 <br>
-![ss](https://raw.githubusercontent.com/ysfkblt/weather-app/master/src/assets/ss.jpg)
+
+![ss](https://user-images.githubusercontent.com/80647654/162219620-82bb57b7-521b-44d0-9ed0-f187eaa47933.png)
+
