@@ -9,5 +9,4 @@
 ### -OpenWeather API
 
 <br>
-
-![Ss](https://raw.githubusercontent.com/ysfkblt/weather-app/master/src/assets/ss.jpg)
+![ss](https://user-images.githubusercontent.com/80647654/162218545-5815b108-5927-4923-af93-94a033137af3.png)
