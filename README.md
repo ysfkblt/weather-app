@@ -10,4 +10,4 @@
 
 <br>
 
-![Ss](/assets/ss.jpg)
+![Ss](https://raw.githubusercontent.com/ysfkblt/weather-app/master/src/assets/ss.jpg)
