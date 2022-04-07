@@ -9,4 +9,4 @@
 ### -OpenWeather API
 
 <br>
-![ss](https://user-images.githubusercontent.com/80647654/162218545-5815b108-5927-4923-af93-94a033137af3.png)
+![ss](https://user-images.githubusercontent.com/80647654/162218928-f97434e8-55b0-4cfb-b824-de36faae362e.png)
