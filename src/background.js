@@ -3,7 +3,7 @@ const background = {
 
 	clear: 'linear-gradient(36deg, #82d7ee 38%, rgba(255,255,255,0) 98%), linear-gradient(162deg, #fff700 16%, rgba(255,255,255,0) 90%), linear-gradient(264deg, blue 42%, rgba(255,255,255,0) 94%), radial-gradient(ellipse at -38% -134%, lightcyan 57%, rgba(255,255,255,0) 87%)',
 
-	cloudy: 'linear-gradient(175deg, rgba(255,255,255,0) 0%, #4d797f 100%), linear-gradient(180deg, #51b0eb 0%, #D0E5F2 100%)',
+	cloudy: 'linear-gradient(180deg, #7292cd 0%, #a6a6a6 100%)',
 
 	rainy: 'linear-gradient(72deg, #62aff7 0%, rgba(255,255,255,0) 90%), radial-gradient(circle at -76% -48%, rgba(255,255,255,0) 0%, #bcc6fc 84%)',
 
@@ -11,7 +11,6 @@ const background = {
 
 	overcast:
 		'linear-gradient(185deg, rgba(255,255,255,0) 0%, #7d7d7d 106%), linear-gradient(180deg, #6e97ff 2%, rgba(233, 233, 233, 0) 89%)',
-	backgroundColor: 'gray',
 };
 
 export default background;

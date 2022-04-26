@@ -40,7 +40,7 @@ export default function App() {
 		? { backgroundImage: background.snow }
 		: weather?.toLowerCase().includes('overcast')
 		? { backgroundImage: background.overcast }
-		: { backgroundColor: '#7dd3fc' };
+		: { backgroundColor: '#93c5fd' };
 
 	return (
 		<div
