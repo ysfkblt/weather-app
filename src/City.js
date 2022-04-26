@@ -2,7 +2,7 @@ import React from 'react';
 
 const City = ({ city }) => {
 	return (
-		<div className='mb-[10vh] sm:mb-[15vh] inline-grid self-end justify-self-center text-center '>
+		<div className='mb-[9vh] sm:mb-[10vh] inline-grid self-end justify-self-center text-center '>
 			<p className='text-4xl sm:text-5xl font-bold  '>
 				{city.main.temp}
 				<span className='align-top font-normal text-2xl'>°</span>

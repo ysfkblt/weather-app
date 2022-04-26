@@ -3,6 +3,7 @@ import axios from 'axios';
 import City from './City';
 import logo from './logo.png';
 import background from './background';
+import impress from './impress.svg';
 
 export default function App() {
 	const aKey = '91d98ed8cb675eb977f1a0374194a2b2';
@@ -65,6 +66,11 @@ export default function App() {
 				/>
 			</div>
 			{city && <City city={city} weather={weather} />}
+			<img
+				className='h-5 sm:h-8 ml-[1vh] mb-[1vh]  inline-grid justify-self-start self-end'
+				src={impress}
+				alt='emblem'
+			/>
 		</div>
 	);
 }
