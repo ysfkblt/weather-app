@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import { shuffle } from 'lodash';
 import axios from 'axios';
 import City from './City';
 import logo from './logo.png';
