@@ -30,8 +30,6 @@ export default function App() {
 
 	const getWeather = weather?.toLowerCase().includes('clear')
 		? { backgroundImage: background.clear }
-		: weather?.toLowerCase().includes('sunny')
-		? { backgroundImage: background.sunny }
 		: weather?.toLowerCase().includes('cloud')
 		? { backgroundImage: background.cloudy }
 		: weather?.toLowerCase().includes('rain')

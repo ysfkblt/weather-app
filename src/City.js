@@ -5,7 +5,9 @@ const City = ({ city }) => {
 		<div className='mb-[9vh] sm:mb-[10vh] inline-grid self-end justify-self-center text-center '>
 			<p className='text-4xl sm:text-5xl font-bold  '>
 				{city.main.temp}
-				<span className='align-top font-normal text-2xl'>°</span>
+				<span className='align-top font-normal text-xl sm:text-3xl'>
+					°
+				</span>
 			</p>
 			<p className='text-2xl sm:text-3xl font-semibold whitespace-nowrap sm:mt-[1.5vh] '>
 				{city.name} <br />
